@@ -1,7 +1,7 @@
 {
     "port": "8080",
-    "auth": "false",
-    "username": "user",
-    "password": "secret",
-    "chromebook": "false"
+    "auth": "true",
+    "username": "krishnad64",
+    "password": "299792458",
+    "chromebook": "true"
 }
